@@ -6,3 +6,4 @@ Sections:
 - Projects
 - Skills
 - Achievements
+- Contact
