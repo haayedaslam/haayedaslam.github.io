@@ -1,4 +1,4 @@
-This is my multi-page engineering portfolio built using the HTML, CSS and JavaScript that I have learnt from taking CS50x.
+This is my multi-page engineering portfolio built using the HTML, CSS and JavaScript that I have learnt from taking the CS50x course from Harvard University.
 
 Sections:
 - About Me
