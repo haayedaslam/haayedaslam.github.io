@@ -7,4 +7,4 @@ Sections:
 - Skills
 - Contact
 
-It lists every engineering project I've worked on, from school, work experience, personal endeavours, and university. Click on each project box to find out more about it!
+It lists every engineering project I've worked on, from school, work experience, personal endeavours, and university. Click on each project card to find out more about it!
